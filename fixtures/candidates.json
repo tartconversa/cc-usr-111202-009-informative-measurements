@@ -1,0 +1,40 @@
+{
+  "candidates": [
+    {
+      "key": "x",
+      "row": [
+        1,
+        0
+      ],
+      "noise_variance": 1,
+      "cost": 1,
+      "group": "sensor1",
+      "position": "p1",
+      "mutex": []
+    },
+    {
+      "key": "y",
+      "row": [
+        0,
+        1
+      ],
+      "noise_variance": 1,
+      "cost": 1,
+      "group": "sensor2",
+      "position": "p2",
+      "mutex": []
+    },
+    {
+      "key": "x-repeat",
+      "row": [
+        1,
+        0
+      ],
+      "noise_variance": 1,
+      "cost": 1,
+      "group": "sensor1",
+      "position": "p1",
+      "mutex": []
+    }
+  ]
+}

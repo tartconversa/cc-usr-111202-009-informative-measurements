@@ -1,0 +1,29 @@
+{
+  "prior_covariance": [
+    [
+      1,
+      0
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "budget": 2,
+  "group_min": {
+    "sensor1": 0,
+    "sensor2": 0
+  },
+  "group_max": {
+    "sensor1": 2,
+    "sensor2": 1
+  },
+  "position_upper_bound": 2,
+  "search_node_budget": 10000,
+  "noise_scale_sensitivity": [
+    0.5,
+    1,
+    2
+  ],
+  "tie_break": "lexicographic_selected_keys"
+}

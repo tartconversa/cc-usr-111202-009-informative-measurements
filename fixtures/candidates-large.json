@@ -1,0 +1,453 @@
+{
+  "candidates": [
+    {
+      "key": "m00",
+      "row": [
+        1,
+        0.0,
+        0.0
+      ],
+      "noise_variance": 0.5,
+      "cost": 1,
+      "group": "g0",
+      "position": "p0",
+      "mutex": [
+        "pair0"
+      ]
+    },
+    {
+      "key": "m01",
+      "row": [
+        1,
+        0.1,
+        0.2
+      ],
+      "noise_variance": 1.0,
+      "cost": 2,
+      "group": "g1",
+      "position": "p0",
+      "mutex": [
+        "pair0"
+      ]
+    },
+    {
+      "key": "m02",
+      "row": [
+        1,
+        0.2,
+        0.4
+      ],
+      "noise_variance": 1.5,
+      "cost": 3,
+      "group": "g2",
+      "position": "p1",
+      "mutex": [
+        "pair0"
+      ]
+    },
+    {
+      "key": "m03",
+      "row": [
+        1,
+        0.3,
+        0.6
+      ],
+      "noise_variance": 2.0,
+      "cost": 1,
+      "group": "g0",
+      "position": "p1",
+      "mutex": [
+        "pair0"
+      ]
+    },
+    {
+      "key": "m04",
+      "row": [
+        1,
+        0.4,
+        0.8
+      ],
+      "noise_variance": 0.5,
+      "cost": 2,
+      "group": "g1",
+      "position": "p2",
+      "mutex": [
+        "pair0"
+      ]
+    },
+    {
+      "key": "m05",
+      "row": [
+        1,
+        0.5,
+        0.0
+      ],
+      "noise_variance": 1.0,
+      "cost": 3,
+      "group": "g2",
+      "position": "p2",
+      "mutex": [
+        "pair0"
+      ]
+    },
+    {
+      "key": "m06",
+      "row": [
+        1,
+        0.6,
+        0.2
+      ],
+      "noise_variance": 1.5,
+      "cost": 1,
+      "group": "g0",
+      "position": "p3",
+      "mutex": [
+        "pair0"
+      ]
+    },
+    {
+      "key": "m07",
+      "row": [
+        1,
+        0.7,
+        0.4
+      ],
+      "noise_variance": 2.0,
+      "cost": 2,
+      "group": "g1",
+      "position": "p3",
+      "mutex": [
+        "pair1"
+      ]
+    },
+    {
+      "key": "m08",
+      "row": [
+        1,
+        0.8,
+        0.6
+      ],
+      "noise_variance": 0.5,
+      "cost": 3,
+      "group": "g2",
+      "position": "p4",
+      "mutex": [
+        "pair1"
+      ]
+    },
+    {
+      "key": "m09",
+      "row": [
+        1,
+        0.9,
+        0.8
+      ],
+      "noise_variance": 1.0,
+      "cost": 1,
+      "group": "g0",
+      "position": "p4",
+      "mutex": [
+        "pair1"
+      ]
+    },
+    {
+      "key": "m10",
+      "row": [
+        1,
+        1.0,
+        0.0
+      ],
+      "noise_variance": 1.5,
+      "cost": 2,
+      "group": "g1",
+      "position": "p5",
+      "mutex": [
+        "pair1"
+      ]
+    },
+    {
+      "key": "m11",
+      "row": [
+        1,
+        1.1,
+        0.2
+      ],
+      "noise_variance": 2.0,
+      "cost": 3,
+      "group": "g2",
+      "position": "p5",
+      "mutex": [
+        "pair1"
+      ]
+    },
+    {
+      "key": "m12",
+      "row": [
+        1,
+        1.2,
+        0.4
+      ],
+      "noise_variance": 0.5,
+      "cost": 1,
+      "group": "g0",
+      "position": "p6",
+      "mutex": [
+        "pair1"
+      ]
+    },
+    {
+      "key": "m13",
+      "row": [
+        1,
+        1.3,
+        0.6
+      ],
+      "noise_variance": 1.0,
+      "cost": 2,
+      "group": "g1",
+      "position": "p6",
+      "mutex": [
+        "pair1"
+      ]
+    },
+    {
+      "key": "m14",
+      "row": [
+        1,
+        1.4,
+        0.8
+      ],
+      "noise_variance": 1.5,
+      "cost": 3,
+      "group": "g2",
+      "position": "p7",
+      "mutex": [
+        "pair2"
+      ]
+    },
+    {
+      "key": "m15",
+      "row": [
+        1,
+        1.5,
+        0.0
+      ],
+      "noise_variance": 2.0,
+      "cost": 1,
+      "group": "g0",
+      "position": "p7",
+      "mutex": [
+        "pair2"
+      ]
+    },
+    {
+      "key": "m16",
+      "row": [
+        1,
+        1.6,
+        0.2
+      ],
+      "noise_variance": 0.5,
+      "cost": 2,
+      "group": "g1",
+      "position": "p8",
+      "mutex": [
+        "pair2"
+      ]
+    },
+    {
+      "key": "m17",
+      "row": [
+        1,
+        1.7,
+        0.4
+      ],
+      "noise_variance": 1.0,
+      "cost": 3,
+      "group": "g2",
+      "position": "p8",
+      "mutex": [
+        "pair2"
+      ]
+    },
+    {
+      "key": "m18",
+      "row": [
+        1,
+        1.8,
+        0.6
+      ],
+      "noise_variance": 1.5,
+      "cost": 1,
+      "group": "g0",
+      "position": "p9",
+      "mutex": [
+        "pair2"
+      ]
+    },
+    {
+      "key": "m19",
+      "row": [
+        1,
+        1.9,
+        0.8
+      ],
+      "noise_variance": 2.0,
+      "cost": 2,
+      "group": "g1",
+      "position": "p9",
+      "mutex": [
+        "pair2"
+      ]
+    },
+    {
+      "key": "m20",
+      "row": [
+        1,
+        2.0,
+        0.0
+      ],
+      "noise_variance": 0.5,
+      "cost": 3,
+      "group": "g2",
+      "position": "p10",
+      "mutex": [
+        "pair2"
+      ]
+    },
+    {
+      "key": "m21",
+      "row": [
+        1,
+        2.1,
+        0.2
+      ],
+      "noise_variance": 1.0,
+      "cost": 1,
+      "group": "g0",
+      "position": "p10",
+      "mutex": [
+        "pair3"
+      ]
+    },
+    {
+      "key": "m22",
+      "row": [
+        1,
+        2.2,
+        0.4
+      ],
+      "noise_variance": 1.5,
+      "cost": 2,
+      "group": "g1",
+      "position": "p11",
+      "mutex": [
+        "pair3"
+      ]
+    },
+    {
+      "key": "m23",
+      "row": [
+        1,
+        2.3,
+        0.6
+      ],
+      "noise_variance": 2.0,
+      "cost": 3,
+      "group": "g2",
+      "position": "p11",
+      "mutex": [
+        "pair3"
+      ]
+    },
+    {
+      "key": "m24",
+      "row": [
+        1,
+        2.4,
+        0.8
+      ],
+      "noise_variance": 0.5,
+      "cost": 1,
+      "group": "g0",
+      "position": "p12",
+      "mutex": [
+        "pair3"
+      ]
+    },
+    {
+      "key": "m25",
+      "row": [
+        1,
+        2.5,
+        0.0
+      ],
+      "noise_variance": 1.0,
+      "cost": 2,
+      "group": "g1",
+      "position": "p12",
+      "mutex": [
+        "pair3"
+      ]
+    },
+    {
+      "key": "m26",
+      "row": [
+        1,
+        2.6,
+        0.2
+      ],
+      "noise_variance": 1.5,
+      "cost": 3,
+      "group": "g2",
+      "position": "p13",
+      "mutex": [
+        "pair3"
+      ]
+    },
+    {
+      "key": "m27",
+      "row": [
+        1,
+        2.7,
+        0.4
+      ],
+      "noise_variance": 2.0,
+      "cost": 1,
+      "group": "g0",
+      "position": "p13",
+      "mutex": [
+        "pair3"
+      ]
+    }
+  ],
+  "prior_covariance": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "budget": 12,
+  "group_min": {
+    "g0": 1,
+    "g1": 1,
+    "g2": 1
+  },
+  "group_max": {
+    "g0": 3,
+    "g1": 3,
+    "g2": 3
+  },
+  "position_upper_bound": 1
+}
